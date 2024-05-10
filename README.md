@@ -1,4 +1,6 @@
 # AjudaOSul.AI: Combatendo fraudes em pedidos de ajuda durante do Rio Grande do Sul
+![Portfolio mockup](https://github.com/bruninho-design/AjudaOSul.AI-ImersaoAlura/assets/169390737/da1dc3e0-a1f1-4736-91bf-d95b72c0094d)
+
 ![Fortes-chuvas-atingiram-o-Rio-Grande-do-Sul](https://github.com/bruninho-design/AjudaOSul.AI-ImersaoAlura/assets/169390737/83e5eb3c-b1a5-431d-a751-4f8b3e98c8ab)
 
 
