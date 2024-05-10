@@ -27,6 +27,15 @@ Eficiência: Automatiza o processo de triagem de pedidos de ajuda, liberando vol
 Para combater as fraudes em pedidos de ajuda durante a crise climática no Rio Grande do Sul, o algoritmo inteligente usando a tecnologia do Google AI. O modelo base é o Gemini 1.5 Pro, adaptado para funcionar em linguagem Python dentro do ambiente Google Colab.
 
 
+# Contexto de uso:
+![ajudaosulai_1](https://github.com/bruninho-design/AjudaOSul.AI-ImersaoAlura/assets/169390737/710b32c0-ef98-43d4-bdb8-23b0960e6687)
+![ajudaosulai_2](https://github.com/bruninho-design/AjudaOSul.AI-ImersaoAlura/assets/169390737/0ea867e5-9366-45de-8092-bb0a902b4e05)
+![ajudaosulai_3](https://github.com/bruninho-design/AjudaOSul.AI-ImersaoAlura/assets/169390737/8c2a88b0-3d63-4799-bb2e-98ca889532f5)
+![ajudaosulai_4](https://github.com/bruninho-design/AjudaOSul.AI-ImersaoAlura/assets/169390737/03f4614a-6e55-423a-adc7-bb13c7b50654)
+![ajudaosulai_5](https://github.com/bruninho-design/AjudaOSul.AI-ImersaoAlura/assets/169390737/6f7184e0-c6f1-4b04-b888-65d96fee385d)
+![ajudaosulai_6](https://github.com/bruninho-design/AjudaOSul.AI-ImersaoAlura/assets/169390737/43a625a7-0d6a-46db-90d7-f27f83a656f6)
+![ajudaosulai_7](https://github.com/bruninho-design/AjudaOSul.AI-ImersaoAlura/assets/169390737/36ce6ae7-335e-4977-b6bb-3e1061b5ba7c)
+
 # Usando o Algoritmo:
 * Experimente com diferentes imagens de pedidos de ajuda para ver como o algoritmo as avalia.
 * Divirta-se explorando o potencial da inteligência artificial para identificar fraudes e ajudar quem realmente precisa.
