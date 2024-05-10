@@ -20,6 +20,10 @@ O algoritmo analisa cada imagem individualmente, utilizando inteligência artifi
 * **Resultados:**
 Após analisar todas as imagens, o sistema apresenta um resumo das considerações do modelo Gemini para cada uma delas, indicando se são suspeitas ou parecem legítimas.
 
+![01](https://github.com/bruninho-design/AjudaOSul.AI-ImersaoAlura/assets/169390737/8e598ce7-260a-4035-aded-456baef29bda)
+![02](https://github.com/bruninho-design/AjudaOSul.AI-ImersaoAlura/assets/169390737/2691b2f6-fa79-49c4-b269-985e2ce8f1f9)
+![03](https://github.com/bruninho-design/AjudaOSul.AI-ImersaoAlura/assets/169390737/5634ce00-8910-40c4-843f-0f53334b656c)
+
 # Benefícios:
 * **Combate a fraudes:** Ajuda a garantir que os recursos cheguem às pessoas que realmente precisam.
 Eficiência: Automatiza o processo de triagem de pedidos de ajuda, liberando voluntários para outras tarefas.
