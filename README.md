@@ -26,7 +26,7 @@ Após analisar todas as imagens, o sistema apresenta um resumo das consideraçõ
 * **Eficiência:** Automatiza o processo de triagem de pedidos de ajuda, liberando voluntários para outras tarefas.
 * **Transparência:** Fornece uma pontuação e classificação claras para cada pedido, permitindo que as organizações de ajuda tomem decisões mais acertadas.
 
-# Prototipo - Interfaces do Úsuario
+# Prototipo - Interfaces do Usuário
 ![01](https://github.com/bruninho-design/AjudaOSul.AI-ImersaoAlura/assets/169390737/8e598ce7-260a-4035-aded-456baef29bda)
 ![02](https://github.com/bruninho-design/AjudaOSul.AI-ImersaoAlura/assets/169390737/2691b2f6-fa79-49c4-b269-985e2ce8f1f9)
 ![03](https://github.com/bruninho-design/AjudaOSul.AI-ImersaoAlura/assets/169390737/5634ce00-8910-40c4-843f-0f53334b656c)
