@@ -1,13 +1,11 @@
 # AjudaOSul.AI: Combatendo fraudes em pedidos de ajuda durante do Rio Grande do Sul
+![Header](https://github.com/bruninho-design/AjudaOSul.AI-ImersaoAlura/assets/169390737/becbe986-dda8-464b-9a8f-f9b856ae0426)
+![Capa-do-estudo](https://github.com/bruninho-design/AjudaOSul.AI-ImersaoAlura/assets/169390737/49990e2a-5f37-484f-b489-82e02f0c80cd)
+![Intro-contexto](https://github.com/bruninho-design/AjudaOSul.AI-ImersaoAlura/assets/169390737/169dca1a-0c15-4bdf-864c-a1b0fc5bf228)
+![news](https://github.com/bruninho-design/AjudaOSul.AI-ImersaoAlura/assets/169390737/5e010fb4-785a-4042-b7e3-238bd1247552)
+
+# A solução
 ![Portfolio mockup](https://github.com/bruninho-design/AjudaOSul.AI-ImersaoAlura/assets/169390737/da1dc3e0-a1f1-4736-91bf-d95b72c0094d)
-
-![Fortes-chuvas-atingiram-o-Rio-Grande-do-Sul](https://github.com/bruninho-design/AjudaOSul.AI-ImersaoAlura/assets/169390737/83e5eb3c-b1a5-431d-a751-4f8b3e98c8ab)
-
-
-# Introdução
-O Rio Grande do Sul, tem sido devastado por severas crises climáticas que resultaram em inundações catastróficas e milhares de pessoas desabrigadas. Infelizmente, em meio a esses tempos difíceis, indivíduos mal-intencionados exploram a situação, criando pedidos de ajuda fraudulentos para obter recursos destinados àqueles que realmente precisam.
-<img width="1034" alt="Captura de Tela 2024-05-09 às 20 34 15" src="https://github.com/bruninho-design/AjudaOSul.AI-ImersaoAlura/assets/169390737/a4574b9c-98aa-4f1e-b7b9-714c8a08b5b6">
-
 
 # Objetivo
 O projeto visa criar um sistema de chatbot inteligente para identificar pedidos de ajuda verdadeiros durante a crise no Rio Grande do Sul. Ele analisa fotos e textos, procurando por sinais de fraude e dando pontos aos pedidos que parecem reais. Assim, podemos garantir que a ajuda chegue a quem realmente precisa.
@@ -20,6 +18,10 @@ O algoritmo analisa cada imagem individualmente, utilizando inteligência artifi
 * **Resultados:**
 Após analisar todas as imagens, o sistema apresenta um resumo das considerações do modelo Gemini para cada uma delas, indicando se são suspeitas ou parecem legítimas.
 
+
+![Flow](https://github.com/bruninho-design/AjudaOSul.AI-ImersaoAlura/assets/169390737/74470406-b4cb-4e63-b76f-e407f9d391e0)
+
+# Prototipo - Interfaces do Úsuario
 ![01](https://github.com/bruninho-design/AjudaOSul.AI-ImersaoAlura/assets/169390737/8e598ce7-260a-4035-aded-456baef29bda)
 ![02](https://github.com/bruninho-design/AjudaOSul.AI-ImersaoAlura/assets/169390737/2691b2f6-fa79-49c4-b269-985e2ce8f1f9)
 ![03](https://github.com/bruninho-design/AjudaOSul.AI-ImersaoAlura/assets/169390737/5634ce00-8910-40c4-843f-0f53334b656c)
@@ -47,4 +49,15 @@ Para combater as fraudes em pedidos de ajuda durante a crise climática no Rio G
 * Divirta-se explorando o potencial da inteligência artificial para identificar fraudes e ajudar quem realmente precisa.
 * Compartilhe seus resultados e descobertas com a comunidade, contribuindo para o desenvolvimento do projeto e o combate às fraudes.
 
-**Juntos, podemos fazer a diferença na vida daqueles que foram afetados por crises climáticas. Contribua para o AjudaOSul.AI e ajude a combater fraudes, garantindo que a ajuda chegue a quem realmente precisa.**
+# Como Contribuir
+O AjudaOSul.AI é uma semente, um ponto de partida para usar a tecnologia em prol de quem mais precisa no Rio Grande do Sul. Acredito no poder da colaboração para fazer essa semente germinar e se transformar em uma solução robusta e impactante.
+
+Se você se identifica com a causa e quer contribuir para a evolução do AjudaOSul.AI, junte-se a mim!
+
+**Suas contribuições são muito bem-vindas! Veja como você pode ajudar:**
+* **Compartilhe suas ideias:** Tem sugestões de funcionalidades, melhorias ou novas abordagens? Abra uma issue no repositório para discutirmos!
+* **Contribua com código:** Se você é desenvolvedor, pode contribuir diretamente com o código do projeto. Envie um pull request com suas alterações e vamos construir juntos!
+* **Divulgue o projeto:** Compartilhe o AjudaOSul.AI com sua rede de contatos. Quanto mais pessoas conhecerem o projeto, maior o potencial de impacto!
+* **Ajude na documentação:** Uma boa documentação é fundamental para tornar o projeto acessível a todos. Se você tem habilidades de escrita técnica, contribua com a documentação do AjudaOSul.AI!
+
+**Juntos, podemos usar a tecnologia para fazer a diferença na vida de quem mais precisa. Vamos transformar o AjudaOSul.AI em uma ferramenta poderosa de solidariedade e apoio! 🚀**
