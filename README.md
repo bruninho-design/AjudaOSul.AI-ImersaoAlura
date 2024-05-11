@@ -1,11 +1,11 @@
 # AjudaOSul.AI: Combatendo fraudes em pedidos de ajuda durante do Rio Grande do Sul
-![Header](https://github.com/bruninho-design/AjudaOSul.AI-ImersaoAlura/assets/169390737/becbe986-dda8-464b-9a8f-f9b856ae0426)
+![Header](https://github.com/bruninho-design/AjudaOSul.AI-ImersaoAlura/assets/169390737/b0e6530d-df2c-4413-ac4e-b6220788537d)
 ![Capa-do-estudo](https://github.com/bruninho-design/AjudaOSul.AI-ImersaoAlura/assets/169390737/49990e2a-5f37-484f-b489-82e02f0c80cd)
 ![Intro-contexto](https://github.com/bruninho-design/AjudaOSul.AI-ImersaoAlura/assets/169390737/169dca1a-0c15-4bdf-864c-a1b0fc5bf228)
 ![news](https://github.com/bruninho-design/AjudaOSul.AI-ImersaoAlura/assets/169390737/5e010fb4-785a-4042-b7e3-238bd1247552)
 
 # A solução
-![Portfolio mockup](https://github.com/bruninho-design/AjudaOSul.AI-ImersaoAlura/assets/169390737/da1dc3e0-a1f1-4736-91bf-d95b72c0094d)
+![Portfolio mockup](https://github.com/bruninho-design/AjudaOSul.AI-ImersaoAlura/assets/169390737/19ec145c-17fa-4a37-b019-9f4e5b979a3d)
 
 # Objetivo
 O projeto visa criar um sistema de chatbot inteligente para identificar pedidos de ajuda verdadeiros durante a crise no Rio Grande do Sul. Ele analisa fotos e textos, procurando por sinais de fraude e dando pontos aos pedidos que parecem reais. Assim, podemos garantir que a ajuda chegue a quem realmente precisa.
